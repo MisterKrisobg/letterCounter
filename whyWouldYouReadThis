@@ -1,0 +1,3 @@
+# letterCounter
+A string has to be entered, this will count the letters (latin alphabet only) in it. It will not count any symbols, spaces, etc.
+That's literally it.
