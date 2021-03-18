@@ -16,4 +16,6 @@ const numOfLetters = (input) => {
     }
     console.log(x) 
     }
+// Example
 numOfLetters("^^Ha%h   a$ $$h");
+// Result is 5 as all symbols/spaces/non-latin alphabet characters are ignored.
